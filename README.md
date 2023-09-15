@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-  👋&nbsp; I'm <b>developer + designer</b> skilled in UX/UI, AI and APP.🚀<br/>
+  I'm <b>developer + designer</b> skilled in UX/UI, AI and APP.🚀<br/>
   I majored in design, studied artificial intelligence, and am currently learning mobile app development.<br/>
   I develop cross-platforms mobile app Flutter.<br/><br/>
   I enjoy running, drawing and playing piano.<br/>
