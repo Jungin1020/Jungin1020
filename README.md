@@ -22,7 +22,7 @@
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"><br/>
 
 </p>
 
@@ -31,10 +31,12 @@
 #### Dev Card
 
 [Dev Card Repository](https://github.com/Jungin1020/Git_Hub_Card/tree/develop)
+- It's an app that automatically creates a business card for developers.
 
-#### Dev Card
+#### DaybyDay Currency
 
-[Dev Card Repository](https://github.com/Jungin1020/Git_Hub_Card/tree/develop)
+[DaybyDay Currency Repository](https://github.com/Jungin1020/inflearn_flutter_basic/tree/flutter/basic_xx_rate_exchange_app)
+- It's an app that provides users with up-to-date currency exchange rates.
 
 
 
