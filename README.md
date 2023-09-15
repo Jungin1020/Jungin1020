@@ -18,16 +18,24 @@
 
 </p>
 
+
+***
+
+
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-  <br/>
+ 
 
 </p>
 
 
+***
+
+
+<br/>
 ### 🍑 Flutter Projects
 #### Dev Card
 
