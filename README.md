@@ -38,6 +38,7 @@ Here is my [Notion Portfolio Link!](https://www.notion.so/Jung-In-s-Portfolio-ce
 
 ### 🍑 Flutter Projects
 <p>
+  
   #### Dev Card
   
   [Dev Card Repository](https://github.com/Jungin1020/Git_Hub_Card/tree/develop)
@@ -47,6 +48,8 @@ Here is my [Notion Portfolio Link!](https://www.notion.so/Jung-In-s-Portfolio-ce
     - It's an app that automatically creates a business card for developers.
     - Clean Architecture
     - Firebase, Provider, Go_router
+
+  <br/>
 
   
   #### DaybyDay Currency
@@ -58,6 +61,8 @@ Here is my [Notion Portfolio Link!](https://www.notion.so/Jung-In-s-Portfolio-ce
     - It's an app that provides users with up-to-date currency exchange rates.
     - Clean Architecture
     - Provider, Injectable, Go_router
+
+  <br/>
 
 
   #### Toy Projects
