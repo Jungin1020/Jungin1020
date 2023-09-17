@@ -33,19 +33,22 @@
 
 <br/>
 
-
 ### 🍑 Flutter Projects
-#### Dev Card
 <p>
+  #### Dev Card
   [Dev Card Repository](https://github.com/Jungin1020/Git_Hub_Card/tree/develop)
-  - It's an app that automatically creates a business card for developers.
+
+    - App Store review in progress
+    - It's an app that automatically creates a business card for developers.
+    - Clean Architecture
+    - Firebase, Provider, Go_router
+
   
   #### DaybyDay Currency
   
   [DaybyDay Currency Repository](https://github.com/Jungin1020/inflearn_flutter_basic/tree/flutter/basic_xx_rate_exchange_app)
-  - It's an app that provides users with up-to-date currency exchange rates.
-
+    
+    - Available for download on the App Store
+    - It's an app that provides users with up-to-date currency exchange rates.
+    
 </p>
-
-
-
