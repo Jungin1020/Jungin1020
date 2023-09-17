@@ -2,10 +2,13 @@
 <p>
   I'm <b>developer + designer</b> skilled in UX/UI, AI and APP.🚀<br/>
   I majored in design, studied artificial intelligence, and am currently learning mobile app development.<br/>
-  I develop cross-platforms mobile app Flutter.<br/><br/>
+  I develop cross-platforms mobile app <b>Flutter</b>.<br/><br/>
   I enjoy running, drawing and playing piano.<br/>
   I hope to harness both my design and development skills to their full potential. 🔥<br/><br/>
+  
 </p>
+
+Here is my [Notion Portfolio Link!](https://www.notion.so/Jung-In-s-Portfolio-ceac3ad00e864d11b36105c496335157)<br/><br/>
 
 
 ### 💪 Skills
