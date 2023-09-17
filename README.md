@@ -54,6 +54,18 @@
       
     - It's an app that provides users with up-to-date currency exchange rates.
     - Clean Architecture
-    - Provider, Go_router
+    - Provider, Injectable, Go_router
+
+
+  #### Toy Projects
+  
+  [Toy Projects' Repository](https://github.com/Jungin1020/inflearn_flutter_basic/tree/flutter)
+      
+    - Toy projects done at Seoul Software Academy
+    - Clean Architecture, MVVM
+    - Provider, Injectable, Go_Router, Result Pattern, Test, ect...
     
 </p>
+
+
+
