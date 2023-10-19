@@ -43,7 +43,7 @@ Here is my [Notion Portfolio Link!](https://www.notion.so/Jung-In-s-Portfolio-ce
   
   [Dev Card Repository](https://github.com/Jungin1020/Git_Hub_Card/tree/develop)
   
-  `App Store review in progress`
+  `Available for download on the App Store`
 
     - It's an app that automatically creates a business card for developers.
     - Clean Architecture
